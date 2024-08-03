@@ -1,0 +1,17 @@
+[
+    {
+      "id": "faeb5d9a-fc72-4ec8-839f-89a88f1f9714",
+      "name": "Tech Hub",
+      "active": true,
+      "store_owner":"e94ff75d-cd37-4382-acd3-8a0ed285ee05",
+      "created_at": "2024-08-03T10:00:00Z"
+    },
+    {
+      "id": "7b5f84a2-67f9-44e0-bc50-64a5d6a734e3",
+      "name": "Book Haven",
+      "active": true,
+      "store_owner": "90993651-a693-4487-85de-042748ab3207",
+      "created_at": "2024-08-03T10:00:00Z"
+    }
+  ]
+  

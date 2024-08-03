@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e94ff75d-cd37-4382-acd3-8a0ed285ee05",
+    "email": "test@gmail.com",
+    "password": "$2b$10$VqMLANAxKvZ/QwVRY0EzLeZkbvHA/K00MtPuFCOCSc/iejXXIROSK",
+    "is_store_owner": true,
+    "created_at": "2024-08-03T11:00:13.893Z"
+  },
+  {
+    "id": "1953aa96-0691-4b37-95fb-ba86ccedbb2c",
+    "email": "test2@gmail.com",
+    "password": "$2b$10$VqMLANAxKvZ/QwVRY0EzLeZkbvHA/K00MtPuFCOCSc/iejXXIROSK",
+    "is_store_owner": false,
+    "created_at": "2024-08-03T11:00:13.893Z"
+  },
+  {
+    "id": "90993651-a693-4487-85de-042748ab3207",
+    "email": "test3@gmail.com",
+    "password": "$2b$10$VqMLANAxKvZ/QwVRY0EzLeZkbvHA/K00MtPuFCOCSc/iejXXIROSK",
+    "is_store_owner": true,
+    "created_at": "2024-08-03T11:00:13.893Z"
+  }
+]

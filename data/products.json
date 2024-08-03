@@ -1,0 +1,51 @@
+[
+    {
+      "id": "de305d54-75b4-431b-adb2-eb6b9e546014",
+      "name": "Wireless Mouse",
+      "description": "A high precision wireless mouse with ergonomic design.",
+      "price": 2900,
+      "store": "7b5f84a2-67f9-44e0-bc50-64a5d6a734e3",
+      "category": "3a6c06f2-4028-4c67-b2a8-654c7b8a4f9a"
+    },
+    {
+      "id": "6fa459ea-ee8a-3ca4-894e-db77e160355e",
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+      "price": 8900,
+      "store": "7b5f84a2-67f9-44e0-bc50-64a5d6a734e3",
+      "category": "3a6c06f2-4028-4c67-b2a8-654c7b8a4f9a"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Smartphone Stand",
+      "description": "Adjustable smartphone stand for desk with anti-slip base.",
+      "price": 1500,
+      "store": "7b5f84a2-67f9-44e0-bc50-64a5d6a734e3",
+      "category": "f8583496-d2b8-4c2f-a7d7-8c5a6d9e9d6f"
+    },
+    {
+      "id": "726f6b6e-6f77-3e75-74d6-6973696e7465",
+      "name": "Portable Charger",
+      "description": "Compact portable charger with 10000mAh capacity and fast charging.",
+      "price": 3900,
+      "store": "faeb5d9a-fc72-4ec8-839f-89a88f1f9714",
+      "category": "e2b7f08c-80da-4f37-90a6-7d527c4d8e2e"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "name": "Laptop Sleeve",
+      "description": "Water-resistant laptop sleeve with soft lining for protection.",
+      "price": 2500,
+      "store": "faeb5d9a-fc72-4ec8-839f-89a88f1f9714",
+      "category": "f8583496-d2b8-4c2f-a7d7-8c5a6d9e9d6f"
+    },
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness and color temperature.",
+      "price": 4900,
+      "store": "faeb5d9a-fc72-4ec8-839f-89a88f1f9714",
+      "category": "f8583496-d2b8-4c2f-a7d7-8c5a6d9e9d6f"
+    }
+  ]
+  
